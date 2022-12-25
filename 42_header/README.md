@@ -31,7 +31,7 @@ Follow the steps below for the header installation, which is mandatory in Ecole 
 
 ```vim
 let g:user42 = 'user_name'
-let g:mail42 = 'user_name@student.42kocaeli.com.tr'         // Replace user_name with your own username
+let g:mail42 = 'user_name@student.42kocaeli.com.tr'
 ```
 9. After entering the commands, press esc and enter the `:wq` command to exit the file.
 
@@ -48,7 +48,7 @@ let g:mail42 = 'user_name@student.42kocaeli.com.tr'         // Replace user_name
 
 ```vim
 let g:user42 = 'user_name'
-let g:mail42 = 'user_name@student.42kocaeli.com.tr'         // Replace user_name with your own username
+let g:mail42 = 'user_name@student.42kocaeli.com.tr'
 ```
 9. After entering the commands, press esc and enter the `:wq` command to exit the file.
 
