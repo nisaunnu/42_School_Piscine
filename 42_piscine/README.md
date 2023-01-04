@@ -1,10 +1,10 @@
-# Projects
+# :pencil: Projects
 
 Here you are now entering the Shell and C programming language. Invest how to solve the desired problem. Do not memorize the codes, try to understand the working logic of the codes. Run the code by changing/deleting some lines, signs and see the results. Don't be afraid to ask around about something you don't understand.
 
 Good luck!
 
-# Link Descriptions
+# :link: Link Descriptions
 
 Click on the links below to access the sites. If you get an error when clicking on the links of the books and manuals, refresh the page or download the file.
 
@@ -17,6 +17,7 @@ Click on the links below to access the sites. If you get an error when clicking 
 * [IBM (EN)](https://www.ibm.com/docs/en/ibm-mq/9.0?topic=mqi-c-programming)
 * [w3school (EN)](https://www.w3schools.com/c/index.php)
 * [geeksforgeeks (EN)](https://www.geeksforgeeks.org/c-programming-language/)
+* [C Documentation - DevDocs (EN)](https://devdocs.io/c/)
 * [Evrensel Kod (TR)](https://www.evrenselkod.com/c-programlama-dersleri/)
 
 ## Videos in C Language
