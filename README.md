@@ -77,6 +77,6 @@ productive between excellent time management skill and the workload required by 
         <li> <a href="https://github.com/nisaunnu/42School/tree/main/42_piscine/c06"> c06 </a></li>
         <li> <a href="https://github.com/nisaunnu/42School/tree/main/42_piscine/c07"> c07 </a></li>
         <li> <a href="https://github.com/nisaunnu/42School/tree/main/42_piscine/rush00"> rush00 </a></li>
-        <li> <a href="https://github.com/nisaunnu/42School/tree/main/42_piscine/shell00"> shel00 </a></li>
+        <li> <a href="https://github.com/nisaunnu/42School/tree/main/42_piscine/shell00"> shell00 </a></li>
     </ul>
 </ol></b>
